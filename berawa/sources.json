@@ -1,0 +1,59 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.villamiguela.com/",
+ "read_at": "2026-10-30T08:46:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.villamiguela.com/",
+   "sha256": "f813eef58ef560e817517053c5b13becc106cb2ea46169dfbd67ac23f4e62962",
+   "chars": 20835
+  },
+  {
+   "url": "https://www.villamiguela.com/faqs/",
+   "sha256": "519d9314cfa453f9fb00a869c75d60361f9637bd73b422ada5c168c7622880b6",
+   "chars": 5523
+  },
+  {
+   "url": "https://www.villamiguela.com/habitaciones-compartidas-hostel-santander/",
+   "sha256": "eb15f06a6d8c899c77893055da9a5c626a27c18cdd995b24b31dc667c7a385a3",
+   "chars": 6578
+  },
+  {
+   "url": "https://www.villamiguela.com/hostel-para-peregrinos-en-santander/",
+   "sha256": "f2be48afa0f54a7d978eaa30f27f53bff2549b52c6b39ad44dd6da0dac70c014",
+   "chars": 3747
+  },
+  {
+   "url": "https://www.villamiguela.com/hostels-centro-santander/",
+   "sha256": "03b91a639c373741a17e792416bb98906c77c0cbe0e4048748846c749b13fbca",
+   "chars": 2075
+  },
+  {
+   "url": "https://www.villamiguela.com/hostels-cerca-de-santander/",
+   "sha256": "11909e274cd03fa527953c8215b6bfa61bb94814a9825aa7cf98465be0a85f85",
+   "chars": 4964
+  }
+ ],
+ "other_pages_read": [
+  "https://www.villamiguela.com",
+  "https://www.villamiguela.com/albergues-para-jovenes-en-santander/",
+  "https://www.villamiguela.com/como-organizar-un-viaje-en-grupo-a-santander/",
+  "https://www.villamiguela.com/donde-dormir-en-santander-si-eres-joven/",
+  "https://www.villamiguela.com/excursiones-de-un-dia-desde-santander/",
+  "https://www.villamiguela.com/experiencias/",
+  "https://www.villamiguela.com/habitaciones-individuales-en-hostel-en-santander/",
+  "https://www.villamiguela.com/home/",
+  "https://www.villamiguela.com/hostel-centro-de-santader/",
+  "https://www.villamiguela.com/hostel-cerca-de-mi-en-santander/",
+  "https://www.villamiguela.com/hostel-cerca-de-santander/",
+  "https://www.villamiguela.com/hostel-in-santander/",
+  "https://www.villamiguela.com/hostel-para-estudiantes-en-santander/",
+  "https://www.villamiguela.com/hostel-para-extranjeros-en-santander/",
+  "https://www.villamiguela.com/hostel-para-grupos-en-santander/",
+  "https://www.villamiguela.com/hostel-para-jovenes-en-santander/",
+  "https://www.villamiguela.com/hostel-para-pergrinos-en-santander/",
+  "https://www.villamiguela.com/playas-de-santander/",
+  "https://www.villamiguela.com/santander-en-verano/"
+ ]
+}

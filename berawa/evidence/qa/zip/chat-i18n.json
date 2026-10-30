@@ -1,0 +1,398 @@
+{
+ "url": "http://127.0.0.1:44847/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay 60 literas individuales en 7 habitaciones compartidas (mixtas de hasta 18 y femeninas de 6), con cortina opaca, lámpara de lectura, ench"
+    },
+    {
+     "q": "¿Cómo son las habitaciones privadas?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Las privadas son Marinera (6 plazas), Bahía (5), Sardinero (4) y Raqueros (4): todas exteriores y con baño propio. También se pueden reserva"
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "La recepción da la bienvenida de lunes a viernes de 9:00 a 18:00. Puedes hacer el check-in online el día antes de llegar. La salida es a las"
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, hay Wi-fi gratis."
+    },
+    {
+     "q": "¿Qué zonas comunes hay?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Hay salón con televisión y sofás, comedor, un work-office para trabajar, terraza superior con vistas panorámicas y un patio donde se celebra"
+    },
+    {
+     "q": "¿Puedo dejar las maletas?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Si llegas antes del check-in puedes dejar tus cosas hasta la hora de entrada. Cada cama tiene una cajonera con sistema para candado (puedes "
+    },
+    {
+     "q": "¿Puedo ir con mi perro?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Por el momento las mascotas no pueden alojarse en Villa Miguela."
+    },
+    {
+     "q": "¿Dónde está el hostel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Está en la Calle Menéndez Pelayo 66, 39006 Santander. A muy pocos metros está el Túnel del Tren de Pombo, que lleva en un momento a la zona "
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar y ver precio y disponibilidad en su motor de reservas (botón Reservar), escribir a hola@villamiguela.com o llamar al +34 660"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar y ver precio y disponibilidad en su motor de reservas (botón Reservar), escribir a hola@villamiguela.com o llamar al +34 660"
+    },
+    {
+     "q": "¿Está incluida la ropa de cama?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sí, la ropa de cama está incluida. En las habitaciones compartidas la toalla de baño se alquila aparte, al reservar online o en el hostel."
+    },
+    {
+     "q": "¿Es accesible?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Su web indica acceso a la planta de habitación y aseo sin barreras arquitectónicas, cumpliendo la normativa de seguridad y accesibilidad."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 660 53 45 41 · hola@villamiguela.com."
+    },
+    {
+     "q": "¿Hay gimnasio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 660 53 45 41 · hola@villamiguela.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿A qué hora es el check-in?",
+    "¿Dónde está el hostel?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "svc2"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are 60 individual bunks in 7 shared rooms (mixed for up to 18 and female for 6), with blackout curtain, reading lamp, socket, USB and "
+    },
+    {
+     "q": "What are the private rooms like?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The private rooms are Marinera (6 guests), Bahía (5), Sardinero (4) and Raqueros (4): all exterior and with their own bathroom. Private grou"
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Reception welcomes guests Monday to Friday from 9:00 to 18:00. You can check in online the day before arrival. Check-out is at 11:00."
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes, there is free Wi-fi."
+    },
+    {
+     "q": "What common areas are there?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "There is a lounge with TV and sofas, a dining room, a work-office, a top-floor terrace with panoramic views and a patio where concerts and a"
+    },
+    {
+     "q": "Can I leave my luggage?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "If you arrive before check-in you can leave your things until check-in time. Each bed has a drawer that takes a padlock (bring your own or r"
+    },
+    {
+     "q": "Can I bring my dog?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "For the moment pets cannot stay at Villa Miguela."
+    },
+    {
+     "q": "Where is the hostel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "It is at Calle Menéndez Pelayo 66, 39006 Santander. A few metres away is the Pombo train tunnel, which takes you to the Sardinero seafront i"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book and see price and availability in their booking engine (Book button), write to hola@villamiguela.com or call +34 660 53 45 41. "
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book and see price and availability in their booking engine (Book button), write to hola@villamiguela.com or call +34 660 53 45 41. "
+    },
+    {
+     "q": "Is bed linen included?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Yes, bed linen is included. In shared rooms the bath towel is rented separately, when booking online or at the hostel."
+    },
+    {
+     "q": "Is it accessible?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Their website states access to the room floor and bathroom without architectural barriers, meeting safety and accessibility regulations."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 660 53 45 41 · hola@villamiguela.com."
+    },
+    {
+     "q": "Is there a gym?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 660 53 45 41 · hola@villamiguela.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "What time is check-in?",
+    "Where is the hostel?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "svc2"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a 60 lits individuels dans 7 chambres partagées (mixtes jusqu’à 18 et féminines de 6), avec rideau occultant, lampe de lecture, prise, "
+    },
+    {
+     "q": "Comment sont les chambres privées ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les chambres privées sont Marinera (6 personnes), Bahía (5), Sardinero (4) et Raqueros (4) : toutes extérieures et avec salle de bain. On pe"
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "La réception accueille du lundi au vendredi de 9:00 à 18:00. Vous pouvez faire le check-in en ligne la veille de votre arrivée. Le départ es"
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui, le Wi-fi est gratuit."
+    },
+    {
+     "q": "Quels espaces communs y a-t-il ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Il y a un salon avec télévision et canapés, une salle à manger, un work-office, une terrasse en haut avec vue panoramique et un patio où ont"
+    },
+    {
+     "q": "Puis-je laisser mes bagages ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Si vous arrivez avant le check-in, vous pouvez laisser vos affaires jusqu’à l’heure d’arrivée. Chaque lit a un tiroir avec système de cadena"
+    },
+    {
+     "q": "Puis-je venir avec mon chien ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Pour le moment, les animaux ne peuvent pas séjourner à Villa Miguela."
+    },
+    {
+     "q": "Où se trouve l'auberge ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Elle se trouve Calle Menéndez Pelayo 66, 39006 Santander. À quelques mètres se trouve le tunnel ferroviaire de Pombo, qui mène en un instant"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver et voir prix et disponibilité dans leur moteur de réservation (bouton Réserver), écrire à hola@villamiguela.com ou appe"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver et voir prix et disponibilité dans leur moteur de réservation (bouton Réserver), écrire à hola@villamiguela.com ou appe"
+    },
+    {
+     "q": "Le linge de lit est-il inclus ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Oui, le linge de lit est inclus. Dans les chambres partagées, la serviette de bain se loue à part, en ligne ou sur place."
+    },
+    {
+     "q": "Est-ce accessible ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Leur site indique un accès à l’étage des chambres et aux sanitaires sans barrières architecturales, conforme aux normes de sécurité et d’acc"
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 660 53 45 41 · hola@villamiguela.com."
+    },
+    {
+     "q": "Y a-t-il une salle de sport ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 660 53 45 41 · hola@villamiguela.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "À quelle heure est le check-in ?",
+    "Où se trouve l'auberge ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt 60 Einzelbetten in 7 Mehrbettzimmern (gemischt für bis zu 18 und Frauenzimmer für 6) mit Verdunkelungsvorhang, Leselampe, Steckdose,"
+    },
+    {
+     "q": "Wie sind die Privatzimmer?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Die Privatzimmer heißen Marinera (6 Personen), Bahía (5), Sardinero (4) und Raqueros (4): alle nach außen gelegen und mit eigenem Bad. Außer"
+    },
+    {
+     "q": "Wann ist der Check-in?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Die Rezeption empfängt Gäste Montag bis Freitag von 9:00 bis 18:00 Uhr. Der Online-Check-in ist am Vortag der Anreise möglich. Check-out ist"
+    },
+    {
+     "q": "Gibt es WLAN?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja, es gibt kostenloses WLAN."
+    },
+    {
+     "q": "Welche Gemeinschaftsräume gibt es?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Es gibt einen Aufenthaltsraum mit Fernseher und Sofas, einen Speiseraum, ein Work-Office, eine Dachterrasse mit Panoramablick und einen Inne"
+    },
+    {
+     "q": "Kann ich mein Gepäck abgeben?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Wenn Sie vor dem Check-in ankommen, können Sie Ihre Sachen bis dahin abgeben. Jedes Bett hat eine abschließbare Schublade (eigenes Schloss m"
+    },
+    {
+     "q": "Darf ich meinen Hund mitbringen?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Derzeit dürfen Haustiere nicht in der Villa Miguela übernachten."
+    },
+    {
+     "q": "Wo liegt das Hostel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Es liegt in der Calle Menéndez Pelayo 66, 39006 Santander. Wenige Meter entfernt ist der Bahntunnel von Pombo, durch den Sie im Nu an die Kü"
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine (Schaltfläche Buchen) buchen und Preis und Verfügbarkeit sehen, an hola@villamiguela.com schreiben oder"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine (Schaltfläche Buchen) buchen und Preis und Verfügbarkeit sehen, an hola@villamiguela.com schreiben oder"
+    },
+    {
+     "q": "Ist Bettwäsche inbegriffen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Ja, Bettwäsche ist inbegriffen. In den Mehrbettzimmern wird das Badetuch separat geliehen, online bei der Buchung oder im Hostel."
+    },
+    {
+     "q": "Ist es barrierefrei?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Laut Website ist die Zimmeretage samt Bad ohne bauliche Barrieren erreichbar und erfüllt die Sicherheits- und Barrierefreiheitsnormen."
+    },
+    {
+     "q": "Haben Sie ein Schwimmbad?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 660 53 45 41 · hola@villamiguela.com."
+    },
+    {
+     "q": "Gibt es ein Fitnessstudio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 660 53 45 41 · hola@villamiguela.com."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Wann ist der Check-in?",
+    "Wo liegt das Hostel?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

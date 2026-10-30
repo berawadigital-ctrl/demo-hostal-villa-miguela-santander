@@ -1,0 +1,12 @@
+HEAD 230a573ce9b9679e8c41fd8a207acc432c09055a
+OK    check_kb (citas + regla de precios P1-P6) sobre berawa/knowledge.json
+OK    tests_hostal_villa_miguela_santander: 4 idiomas + chatbot contra la base (HTTP)
+OK    a11y_test: axe-core + teclado (HTTP)
+OK    contrast_manual: contraste de nodos «incompletos» de axe
+OK    keys_test: claves del chat sin ambiguedad
+OK    sec_scan: revision estatica + CSP efectiva
+OK    tests_hostal_villa_miguela_santander por file://
+OK    a11y_test por file://
+
+8/8 comprobaciones OK · resultados en /tmp/clon-hostal-villa-miguela-santander/out
+run_checks exit 0

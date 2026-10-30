@@ -1,0 +1,31 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "hostal-villa-miguela-santander",
+ "maps": {
+  "fecha": "2026-10-29T12:45:23+01:00",
+  "estado": "LEIDA",
+  "ficha": "Hostel Villa Miguela",
+  "nota": 4.6,
+  "coincide": {
+   "tel": true,
+   "web": true,
+   "dir": false
+  },
+  "url": "https://www.google.com/maps/place/Hostel+Villa+Miguela/@43.4668799,-3.7934558,17z/data=!4m9!3m8!1s0xd494b0c6a3c140d:0x214d8a3878235848!5m2!4m1!1i2!8m2!3d43.4668799!4d-3.7934558!16s%2Fg%2F11t3v2hp1x",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T12:45:23+01:00",
+  "veredicto": "DUDOSA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "RESIDENCIA VILLA MIGUELA S.L.",
+  "cif": "B01882851",
+  "fuente": "https://www.villamiguela.com/aviso-legal/",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "Aviso legal y formulario de contacto de villamiguela.com; un solo alojamiento, la web no presenta otros centros ni marca de grupo"
+ }
+}
